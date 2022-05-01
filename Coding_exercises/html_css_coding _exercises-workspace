@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\Study\\Colt Steele\\Code_along"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"editor.tabSize": 2,
+		"files.autoSave": "afterDelay"
+	}
+}
